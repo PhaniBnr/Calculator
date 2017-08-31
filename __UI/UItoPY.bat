@@ -1,0 +1,1 @@
+C:\Python27\python.exe C:\Python27\Lib\site-packages\PyQt4\uic\pyuic.py -x E:\python\Project\calculator\__UI\calculatorUI.ui -o E:\python\Project\calculator\__UI\calculator.py
