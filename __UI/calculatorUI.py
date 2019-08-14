@@ -1,11 +1,7 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'E:\python\Project\calculator\__UI\calculatorUI.ui'
-#
 # Created: Tue Aug 22 18:26:11 2017
 #      by: PyQt4 UI code generator 4.10
-#
-# WARNING! All changes made in this file will be lost!
 
 from PyQt4 import QtCore, QtGui
 
